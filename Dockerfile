@@ -1,4 +1,4 @@
-# Use a slim Python image
+# Use a alpine Python image
 FROM python:3.11-slim
 
 # Install uv
